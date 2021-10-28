@@ -1,7 +1,7 @@
 ### Hey there 👋 My name is Jonathan Thomsen
 
 - 🔭 I’m currently working on [Brasão Sistemas](https://brasaosistemas.com.br/) as Technical Support Coordinator
-- 🌱 I’m currently learning Front-End development ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; at https://www.rocketseat.com.br/ seeking a carrer change from Technical Support to Software Developer
+- 🌱 I’m currently learning Front-End development ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; at https://www.rocketseat.com.br/ seeking a career change from Technical Support to Software Developer
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, React.JS**
 - ⚡ Fun fact: I'm a nerd with a big sense of humor! Also love heavy metal music, big fan of Iron Maiden 🔥 and Helloween 🎃
 - 🏡 Itajaí/Blumenau - SC Brazil
