@@ -5,7 +5,7 @@
 - 💻 I'm seeking a career change from Technical Support to Software Developer or Tester
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 - ⚡ Fun fact: I'm a nerd with a big sense of humor! Also love heavy metal music, big fan of Iron Maiden 🔥 and Helloween 🎃
-- 🏡 Itajaí/Blumenau - SC Brazil
+- 🏡 Blumenau - SC Brazil
 
 ## 🛠 &nbsp;Tech Stack
 
