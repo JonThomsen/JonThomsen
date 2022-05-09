@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Brasão Sistemas](https://brasaosistemas.com.br/) as a front-end Software Developer Jr. with React
 - 🌱 I’m currently learning Front-End development ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; at https://www.rocketseat.com.br/ and https://www.origamid.com/ 
-<!-- 💻 I'm seeking a career change from Technical Support to Software Developer or Tester -->
 - 💬 Ask me about **JavaScript, React, HTML, CSS, SQL**
 - ⚡ Fun fact: I'm a nerd with a big sense of humor! Also love heavy metal music, big fan of Iron Maiden 🔥 and Helloween 🎃
 - 🏡 Blumenau - SC Brazil
@@ -22,6 +21,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/JonThomsen?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/JonThomsen)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jonathan-thomsen92/)
 
+<!-- 💻 I'm seeking a career change from Technical Support to Software Developer or Tester -->
 <!--
 **JonThomsen/JonThomsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
