@@ -15,8 +15,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Firebird](https://img.shields.io/badge/-Firebird-05122A?style=flat&logo=firebird)&nbsp;
 
-![JonThomsen github stats](https://github-readme-stats.vercel.app/api?username=JonThomsen&show_icons=true&theme=tokyonight&hide=contribs,prs?count_private=true)
-
 [![GitHub Followers](https://img.shields.io/github/followers/JonThomsen?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/JonThomsen)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jonathan-thomsen92/)
 
