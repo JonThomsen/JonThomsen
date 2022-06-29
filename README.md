@@ -1,9 +1,8 @@
 ### Hey there 👋 My name is Jonathan Thomsen
 
 - 🔭 I’m currently working on [Brasão Sistemas](https://brasaosistemas.com.br/) as a front-end Software Developer Jr. with React
-- 🌱 I’m currently learning Front-End development ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; at https://www.rocketseat.com.br/ and https://www.origamid.com/ 
+- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; at https://www.rocketseat.com.br/ and https://www.origamid.com/ 
 - 💬 Ask me about **JavaScript, React, HTML, CSS, SQL**
-- ⚡ Fun fact: I'm a nerd with a big sense of humor! Also love heavy metal music, big fan of Iron Maiden 🔥 and Helloween 🎃
 - 🏡 Blumenau - SC Brazil
 
 ## 🛠 &nbsp;Tech Stack
